@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "angular.png"
+    },
+    {
+      "id": 2,
+      "image": "firebase.png"    
+    },
+    {
+      "id": 3,
+      "image": "github.png"
+    },
+    {
+      "id": 4,
+      "image": "handlebars.png" 
+    },
+    {
+      "id": 5,
+      "image": "heroku.png"
+    },
+    {
+      "id": 6,
+      "image": "javascript.png"
+    },
+    {
+      "id": 7,
+      "image": "mongo.png"
+    },
+    {
+      "id": 8,
+      "image": "mysql.png"
+    },
+    {
+      "id": 9,
+      "image": "node.png"
+    },
+    {
+      "id": 10,
+      "image": "npm.png"
+    },
+    {
+      "id": 11,
+      "image": "react.png"
+    },
+    {
+      "id": 12,
+      "image": "sequelize.png"
+    }
+  ]
+  
