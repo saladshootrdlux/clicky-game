@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/saladshootrdlux/clicky-game/blob/master/webstackclickygame.gif?raw=true "Working App Demo Gif")
 
+## View the Working App Here:
+https://ancient-temple-80973.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
