@@ -1,6 +1,6 @@
 ## Web Stack Logo Clicky Game
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/saladshootrdlux/clicky-game/blob/master/webstackclickygame.gif?raw=true "Working App Demo Gif")
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
